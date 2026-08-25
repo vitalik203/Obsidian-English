@@ -22,6 +22,6 @@
     "editor:configure-toolbar",
     "obsidian-git:pull",
     "obsidian-git:push2",
-    "obsidian-git:commit-smart"
+    "obsidian-git:commit"
   ]
 }
