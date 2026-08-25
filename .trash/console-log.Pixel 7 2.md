@@ -15,3 +15,9 @@
 | 2026-08-25T12:15:52.777Z | plugin:obsidian-git:72:6697 | error | \["\[isomorphic-git checkout] task rejected:","Error: File already exists.\n    at t.\<anonymous> (http://localhost/app.js:1:1316703)\n    at http://localhost/app.js:1:258725\n    at Object.next (http://localhost/app.js:1:258830)\n    at a (http://localhost/app.js:1:257548)"] |
 | 2026-08-25T12:15:52.778Z | plugin:obsidian-git:377:3043 | error | \["obsidian-git:","MultipleGitError: There are multiple errors that were thrown by the method. Please refer to the \"errors\" property to see more\n    at eval (plugin:obsidian-git:72:6823)\n    at async eval (plugin:obsidian-git:16:1763)"] |
 | 2026-08-25T12:15:52.780Z | plugin:obsidian-git:72:6823 | fatal | Uncaught (in promise) MultipleGitError: There are multiple errors that were thrown by the method. Please refer to the "errors" property to see more<br>    at eval (plugin:obsidian-git:72:6823)<br>    at async eval (plugin:obsidian-git:16:1763) |
+| 2026-08-25T12:17:01.018Z | plugin:obsidian-git:377:3169 | log | \["obsidian-git:","Committed approx. 5 files"] |
+| 2026-08-25T12:17:01.097Z | plugin:obsidian-git:377:3169 | log | \["obsidian-git:","Pulling...."] |
+| 2026-08-25T12:17:02.854Z | plugin:obsidian-git:377:3169 | log | \["obsidian-git:","Pushing...."] |
+| 2026-08-25T12:17:04.854Z | plugin:obsidian-git:377:3169 | log | \["obsidian-git:","Pushed 5 files to remote"] |
+| 2026-08-25T12:17:05.998Z | plugin:obsidian-git:377:3169 | log | \["obsidian-git:","Pushing...."] |
+| 2026-08-25T12:17:06.064Z | plugin:obsidian-git:377:3169 | log | \["obsidian-git:","No commits to push"] |
