@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12e3r45y6u7i8o9.conflict-android-20260825T123351Z.md",
+                "file": "12e3r45y6u7i8o9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12e3r45y6u7i8o9.conflict-android-20260825T123351Z"
+              "title": "12e3r45y6u7i8o9"
             }
           }
         ]
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "13425tyr6utiol.md",
+            "file": "12e3r45y6u7i8o9.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,11 +184,11 @@
       "gitsync-portal:Open GitSync Portal": false
     }
   },
-  "active": "caa757740025e7ea",
+  "active": "ea24b3236c662dec",
   "lastOpenFiles": [
+    "12e3r45y6u7i8o9.conflict-android-20260825T123351Z.md",
     "12e3r45y6u7i8o9.md",
     "13425tyr6utiol.md",
-    "12e3r45y6u7i8o9.conflict-android-20260825T123351Z.md",
     "console-log.Pixel 7.md",
     "Welcome.md"
   ]
