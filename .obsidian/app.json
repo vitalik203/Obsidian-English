@@ -20,8 +20,10 @@
     "editor:indent-list",
     "editor:unindent-list",
     "editor:configure-toolbar",
-    "obsidian-git:pull",
+    "obsidian-git:commit",
     "obsidian-git:push2",
-    "obsidian-git:commit"
-  ]
+    "obsidian-git:pull"
+  ],
+  "mobileQuickRibbonItem": "obsidian-git:Open Git source control",
+  "mobilePullAction": "obsidian-git:pull"
 }
