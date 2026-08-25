@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Here is notes"
             }
+          },
+          {
+            "id": "7cea891ff694ca68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VOCABULARY/25.08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.08"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Here is notes.md",
+            "file": "VOCABULARY/25.08.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -186,8 +201,10 @@
   },
   "active": "caa757740025e7ea",
   "lastOpenFiles": [
-    "12e3r45y6u7i8o9.conflict-android-20260825T123351Z.md",
     "Here is notes.md",
+    "VOCABULARY/25.08.md",
+    "VOCABULARY",
+    "12e3r45y6u7i8o9.conflict-android-20260825T123351Z.md",
     "13425tyr6utiol.md",
     "12e3r45y6u7i8o9.md",
     "Pasted image 20260825154010.png",
