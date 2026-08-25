@@ -230,11 +230,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "gitsync-portal:Open GitSync Portal": false
     }
   },
-  "active": "a04e273362d02acb",
+  "active": "17617628bc68e262",
   "lastOpenFiles": [
+    "Pasted image 20260825154010.png",
     "12e3r45y6u7i8o9.md",
     "13425tyr6utiol.md",
     "Welcome.md"
