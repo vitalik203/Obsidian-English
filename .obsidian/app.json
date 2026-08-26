@@ -25,5 +25,6 @@
     "obsidian-git:pull"
   ],
   "mobileQuickRibbonItem": "obsidian-git:Open Git source control",
-  "mobilePullAction": "obsidian-git:pull"
+  "mobilePullAction": "obsidian-git:pull",
+  "showInlineTitle": false
 }
