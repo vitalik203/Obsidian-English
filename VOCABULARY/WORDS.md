@@ -1,0 +1,2 @@
+* `word` — **`{{translation}}`**
+  > 💬 *Example:* `{{example}}`

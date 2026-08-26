@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "65ed6872c72a5c83",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "25d8d68c03c3f9e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Here is notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Here is notes"
-            }
-          }
-        ]
-      },
-      {
         "id": "23cda8f2cec7df15",
         "type": "tabs",
         "children": [
@@ -31,10 +11,14 @@
             "id": "31c683c1f4855451",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "_templates/word.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "word"
             }
           }
         ]
@@ -94,8 +78,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "d7bc38b68fb3931b",
+            "type": "leaf",
+            "state": {
+              "type": "gitsync-portal-dashboard",
+              "state": {},
+              "icon": "cloud-cog",
+              "title": "GitSync Portal"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,13 +197,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "gitsync-portal:Open GitSync Portal": false
+      "gitsync-portal:Open GitSync Portal": false,
+      "iconic:Open rulebook": false
     }
   },
-  "active": "a04e273362d02acb",
+  "active": "31c683c1f4855451",
   "lastOpenFiles": [
-    "13425tyr6utiol.md",
+    "VOCABULARY/WORDS.md",
+    "VOCABULARY/PHRASAL-VERBS.md",
+    "Untitled.md",
+    "_templates/word.md",
+    "_templates",
+    "VOCABULARY/IDIOMS.md",
+    "VOCABULARY/25.08.md",
+    "GRAMMAR/Untitled.md",
+    "GRAMMAR",
     "Here is notes.md",
+    "GRAMMAR",
+    "VOCABULARY",
+    "13425tyr6utiol.md",
     "Pasted image 20260825154010.png",
     "12e3r45y6u7i8o9.md",
     "Welcome.md"
