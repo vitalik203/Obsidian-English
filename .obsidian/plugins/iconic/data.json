@@ -31,6 +31,10 @@
   "fileIcons": {
     "GRAMMAR": {
       "icon": "lucide-vector-square",
+      "color": "orange"
+    },
+    "MISTAKES.md": {
+      "icon": "lucide-circle-x",
       "color": "red"
     },
     "VOCABULARY": {
