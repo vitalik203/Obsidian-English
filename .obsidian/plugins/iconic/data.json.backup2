@@ -28,36 +28,7 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {
-    "GRAMMAR": {
-      "icon": "lucide-vector-square",
-      "color": "orange"
-    },
-    "MISTAKES.md": {
-      "icon": "lucide-circle-x",
-      "color": "red"
-    },
-    "VOCABULARY": {
-      "icon": "lucide-voicemail",
-      "color": "blue"
-    },
-    "VOCABULARY/IDIOMS.md": {
-      "icon": "lucide-scan-face",
-      "color": "pink"
-    },
-    "VOCABULARY/PHRASAL-VERBS.md": {
-      "icon": "lucide-chart-no-axes-gantt",
-      "color": "yellow"
-    },
-    "VOCABULARY/WORDS.md": {
-      "icon": "lucide-drone",
-      "color": "cyan"
-    },
-    "_templates": {
-      "icon": "lucide-book-dashed",
-      "color": "purple"
-    }
-  },
+  "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
