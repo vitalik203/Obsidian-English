@@ -2,10 +2,9 @@
   "version": 1,
   "favorites": [],
   "history": [
-    "_templates/word.md",
     "VOCABULARY/WORDS.md",
+    "_templates/word.md",
     "VOCABULARY/PHRASAL-VERBS.md",
-    "Untitled.md",
     "VOCABULARY/IDIOMS.md"
   ]
 }
