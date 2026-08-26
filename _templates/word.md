@@ -1,4 +1,2 @@
-* `word` — translation
-  > 💬 *Example:* `example`
-  
-  
+* `word` — **`translation`**
+  > 💬 *Example:* `translation`

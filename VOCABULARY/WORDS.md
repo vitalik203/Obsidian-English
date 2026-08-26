@@ -1,7 +1,7 @@
-* `word` — **`{{translation}}`**
-  > 💬 *Example:* `{{example}}`
+* `likely` — **`Ймовірно`**
+  > 💬 *Example:* `He, likely, is his friend!`
   
-  * `likely` — ймовірно
-  > 💬 *Example:* `We likely will be in the party`
+* `poison` — отрута
+  > 💬 *Example:* `Hate is the poison`
   
   
